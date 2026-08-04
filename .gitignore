@@ -1,0 +1,6 @@
+cvp_token.txt
+*.xlsx
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
